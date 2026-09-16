@@ -3,7 +3,7 @@ Explores whether motor claim ultimate severity (Capped Incurred) can be meaningf
 # Dataset
 First Notification of Loss dataset(7,691 rows × 46 features)
 # Methodology & Pipeline
-## Data Quality & Cleansing
+# Data Quality & Cleansing
 1) Standardized unformatted missing placeholders (n/k, -, #) to true NaNs.
 2) Filtered out negative/invalid anomalies.
 # Feature Engineering & Reduction
