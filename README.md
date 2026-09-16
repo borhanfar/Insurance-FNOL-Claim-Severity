@@ -4,5 +4,11 @@ Explore whether the ultimate cost can be predicted meaningfully from first notif
 First notification of loss​ (46 columns & 7,691 rows)
 # Strategy
 ## Data quality check
+## Data Cleansing & features engineering
+## Two stages modeling
+## One stage modeling
+## Compare the performance of models
+## Practical consideration
+
 
 
